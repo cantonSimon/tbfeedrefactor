@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TBModel/tbmodel.iml" filepath="$PROJECT_DIR$/TBModel/tbmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TBUI/TBUI.iml" filepath="$PROJECT_DIR$/TBUI/TBUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tbrefactor.iml" filepath="$PROJECT_DIR$/Tbrefactor.iml" />
+    </modules>
+  </component>
+</project>
