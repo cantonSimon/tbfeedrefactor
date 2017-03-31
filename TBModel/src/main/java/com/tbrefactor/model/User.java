@@ -19,6 +19,13 @@ public class User {
         return selectChild;
     }
 
+    public interface EnterYourSpaceRenderer{
+        void openHomePage();
+    }
+    public void enterYourSpace(EnterYourSpaceRenderer enterYourSpaceRenderer){
+        enterYourSpaceRenderer.openHomePage();
+    }
+
     public void changeSelectedChild(Child child){
         //.........
         selectChild = child;

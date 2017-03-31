@@ -15,7 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.refactor.ui.ContextMenuActivity"></activity>
+        <activity android:name="com.refactor.ui.ContextMenuActivity" />
+        <activity android:name="com.refactor.ui.CreateUserActivity" />
+        <activity android:name="com.refactor.ui.HomeActivity" />
+        <activity android:name="com.refactor.ui.EducationActivity"></activity>
     </application>
 
 </manifest>
